@@ -1,5 +1,7 @@
 # Team RHINO 🦏
 
-## Project Description 🤔
+## Project Description
 
-Team Rhino is crafting an innovative Power Apps solution tailored for Microsoft Learn Student Ambassadors. This app not only facilitates seamless team formation but also empowers team leads to pinpoint individuals with specific skillsets and team seeker to find adequate team thanks to AI suggestions.
+Team Rhino has developed an innovative solution for MLSA AI projects by creating a web application utilizing Power Apps and Azure AI. This application streamlines team formation, enabling team leads to identify individuals with specific skill sets and allowing team seekers to find suitable teams through AI-driven suggestions. 
+
+The project prototype has been design using user center design metodologies to ensure a good user experience given the potential number of ambassadors that can used it. In the future we hope we can continue the development of this project by the hand of MLSA coordinators to enhance our propsal.
